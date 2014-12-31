@@ -20,9 +20,9 @@ gmail:
 pg:
   db: habits
 remember_the_milk: # See https://github.com/kevintuhumury/milkman for auth instructions
-  api_key: api-key
-  shared_secret: secret
-  auth_token: auth-token
+  api_key: 2504b547cd3b3307267ba61ae7142be0
+  shared_secret: 42d02c8fbfc757bd
+  auth_token: 6f1be67daeceb4b7938f930ecaff01991819cb70
   list: Your List Name
 dropbox: # See https://www.dropbox.com/developers/core/start/ruby for auth
   app_key: your-app-key
